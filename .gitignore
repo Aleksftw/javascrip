@@ -1,4 +1,7 @@
-# Created by https://www.gitignore.io/api/macos
+# Created by https://www.gitignore.io/api/git,macos
+
+### Git ###
+*.orig
 
 ### macOS ###
 *.DS_Store
@@ -27,7 +30,4 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-### Git ###
-*.orig
-
-# End of https://www.gitignore.io/api/macos
+# End of https://www.gitignore.io/api/git,macos
