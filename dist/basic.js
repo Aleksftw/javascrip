@@ -10,3 +10,13 @@ function factorialize(num) {
 }
 
 factorialize(5);
+
+
+function palindrome(str) {
+	// Good luck!
+	return true;
+}
+
+
+
+palindrome("eye");
