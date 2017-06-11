@@ -27,3 +27,9 @@ function findLongestWord(str) {
 }
 
 findLongestWord("The quick brown fox jumped over the lazy dog");
+
+function titleCase(str) {
+	return str;
+}
+
+titleCase("I'm a little tea pot");
