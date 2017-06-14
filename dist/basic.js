@@ -64,3 +64,9 @@ largestOfFour([
 	[32, 35, 37, 39],
 	[1000, 1001, 857, 1]
 ]);
+
+function confirmEnding(str, target) {
+	// "Never give up and good luck will find you."
+	// -- Falcor
+	return str;
+}
