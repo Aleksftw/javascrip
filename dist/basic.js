@@ -66,7 +66,15 @@ largestOfFour([
 ]);
 
 function confirmEnding(str, target) {
-	// "Never give up and good luck will find you."
-	// -- Falcor
+
+
 	return str;
 }
+
+
+function repeatStringNumTimes(str, num) {
+
+	return str;
+}
+
+repeatStringNumTimes("abc", 3);
