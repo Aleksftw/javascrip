@@ -85,3 +85,11 @@ function truncateString(str, num) {
 }
 
 truncateString("A-tisket a-tasket A green and yellow basket", 11);
+
+
+function chunkArrayInGroups(arr, size) {
+
+	return arr;
+}
+
+chunkArrayInGroups(["a", "b", "c", "d"], 2);
