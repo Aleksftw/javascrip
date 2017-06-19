@@ -93,3 +93,10 @@ function chunkArrayInGroups(arr, size) {
 }
 
 chunkArrayInGroups(["a", "b", "c", "d"], 2);
+
+function slasher(arr, howMany) {
+
+	return arr;
+}
+
+slasher([1, 2, 3], 2);
