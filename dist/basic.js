@@ -115,3 +115,12 @@ function bouncer(arr) {
 }
 
 bouncer([7, "ate", "", false, 9]);
+
+
+
+function destroyer(arr) {
+
+	return arr;
+}
+
+destroyer([1, 2, 3, 1, 2, 3], 2, 3);
