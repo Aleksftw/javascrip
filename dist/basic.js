@@ -124,3 +124,11 @@ function destroyer(arr) {
 }
 
 destroyer([1, 2, 3, 1, 2, 3], 2, 3);
+
+
+function getIndexToIns(arr, num) {
+
+	return num;
+}
+
+getIndexToIns([40, 60], 50);
