@@ -132,3 +132,11 @@ function getIndexToIns(arr, num) {
 }
 
 getIndexToIns([40, 60], 50);
+
+function rot13(str) {
+
+	return str;
+}
+
+
+rot13("SERR PBQR PNZC");
