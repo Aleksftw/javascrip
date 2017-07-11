@@ -1,8 +1,10 @@
 function reverseString(str) {
-	return str;
+	//splitting , reversing and joining the strung
+	var a = str.split('').reverse().join('');
+	return a;
 }
 
-reverseString("hello");
+reverseString("hello"); //returns "olleh"
 
 
 
