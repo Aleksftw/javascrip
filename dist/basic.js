@@ -13,10 +13,14 @@ reverseString("hello"); //returns "olleh"
 
 
 function factorialize(num) {
-	return num;
+	if (a === 0) {
+		return 1;
+	} else {
+		return a * factorialize(a - 1)
+	}
 }
 
-factorialize(5);
+factorialize(5); //returns 120
 
 
 
