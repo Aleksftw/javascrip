@@ -1,2 +1,2 @@
-# javascrip
-Javascript algorithm collection
+# javascript
+Javascript algorithm collection:
