@@ -1,2 +1,2 @@
 # javascript
-Javascript algorithm collection:
+##  A collection of simple algorithms.
